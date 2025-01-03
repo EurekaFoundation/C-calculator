@@ -1,3 +1,4 @@
 # C-calculator
-GUI Calculator in C
-ONLY FOR LINUX
+GUI Calculator in C 
+<br>
+The executable programme is only for linux
